@@ -145,5 +145,6 @@ class HelloWorld {
 
 效果：
 
-欢迎访问郝晓龙的主页[^footnote]。
-[^footnote]: http://www.haoxiaolong.cn
+欢迎访问郝晓龙的主页[^1]
+
+[^1]: http://www.haoxiaolong.cn
