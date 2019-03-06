@@ -6,7 +6,7 @@ There are no packages available for installation
 Please see https://packagecontrol.io/doc/troubleshooting for help
 
 ## 错误截图
-![图片未找到](https://github.com/happyzero/notebook/sublime/PackageControlError.jpg)
+![图片未找到](https://raw.githubusercontent.com/happyzero/notebook/master/sublime/PackageControlError.jpg)
 
 ## 原因
 Package Control被墙掉了
