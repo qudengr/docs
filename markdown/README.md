@@ -140,11 +140,11 @@ class HelloWorld {
 
 ```
 [^脚注]  
-[^脚注]：http://www.haoxiaolong.cn
+[^脚注]：https://www.haomuyang.com
 ```
 
 效果：
 
-欢迎访问郝晓龙的主页[^1]
+欢迎访问JOJO的主页[^1]
 
-[^1]: http://www.haoxiaolong.cn
+[^1]: https://www.haomuyang.com
