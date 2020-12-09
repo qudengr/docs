@@ -123,7 +123,7 @@ class HelloWorld {
 
 效果：
 
-![Save the Earth](http://pic44.photophoto.cn/20170720/1132114040018480_b.jpg)
+[![Nice Tool](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/8f959db3-8915-4a79-ac7c-079ab66edaf2.png)](https://imgbed.cn)
 
 ## 八、分割线
 
@@ -145,6 +145,6 @@ class HelloWorld {
 
 效果：
 
-欢迎访问JOJO的主页[^1]
+欢迎访问我的主页[^1]
 
 [^1]: https://www.haomuyang.com
