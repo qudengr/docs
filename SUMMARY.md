@@ -12,3 +12,7 @@
 ## 随笔
 
 * [中国乡村教育之根本改造](sui-bi/readme.md)
+
+## 系统设计
+
+* [系统架构](xi-tong-she-ji/xi-tong-jia-gou.md)
