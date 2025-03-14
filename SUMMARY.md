@@ -1,7 +1,14 @@
 # Table of contents
 
-* [中国乡村教育之根本改造](README.md)
-* [Markdown 编写样例](markdown/README.md)
+* [Markdown 编写样例](README.md)
 * [shell](shell/README.md)
   * [SshTunnel](shell/SshTunnel.md)
 * [Sublime3 无法安装插件](sublime/README.md)
+
+## 人工智能
+
+* [什么是算法](ren-gong-zhi-neng/shen-me-shi-suan-fa.md)
+
+## 随笔
+
+* [中国乡村教育之根本改造](sui-bi/readme.md)
