@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1736627767464-0b49b52ce699?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE5NzA4MTd8&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # Markdown 编写样例
 
 ## 一、标题与文字格式

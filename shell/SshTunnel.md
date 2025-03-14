@@ -1,3 +1,9 @@
+---
+cover: >-
+  https://images.unsplash.com/photo-1739369122285-8560a5eb18fd?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3NDE5NzA3OTl8&ixlib=rb-4.0.3&q=85
+coverY: 0
+---
+
 # SshTunnel
 
 \#一、本地ssh隧道 使用场景：工作中由于防火墙导致访问某些网站或某些FTP等资源连接超时，有什么解决办法呢。SSH隧道就是一种解决方式。
